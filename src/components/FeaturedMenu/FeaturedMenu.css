@@ -1,0 +1,31 @@
+.featured{
+
+    padding:80px;
+
+    background:#FFF8F0;
+
+}
+
+.featured h2{
+
+    text-align:center;
+
+    font-size:45px;
+
+    margin-bottom:50px;
+
+    color:#3E2723;
+
+}
+
+.cards{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:30px;
+
+    flex-wrap:wrap;
+
+}

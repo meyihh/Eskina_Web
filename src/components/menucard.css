@@ -1,0 +1,64 @@
+.menu-card{
+
+    width:300px;
+
+    background:white;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+    text-align:center;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.1);
+
+    transition:.3s;
+
+}
+
+.menu-card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.menu-card img{
+
+    width:100%;
+    height:220px;
+    object-fit:cover;
+
+}
+
+.menu-card h3{
+
+    margin-top:20px;
+    font-size:25px;
+
+}
+
+.menu-card p{
+
+    color:#6b4f3f;
+    font-size:18px;
+    margin:15px 0;
+
+}
+
+.menu-card button{
+
+    margin-bottom:25px;
+
+    padding:12px 25px;
+
+    border:none;
+
+    background:#D7A86E;
+
+    color:white;
+
+    border-radius:30px;
+
+    cursor:pointer;
+
+}
